@@ -139,7 +139,8 @@ a:after {
 
 .headerHobbies h3 {
   font-size: 20px;
-  text-align: inherit;
+  text-align: right;
+  padding-right: 50px;
   color: black;
   background: rgba(0,0,0,0,);
   /*background: rgba(0,0,0,0.2);*/
@@ -176,6 +177,10 @@ a:after {
 
 .footer p {
   color: white;
+}
+
+.footer h2 {
+  color:white;
 }
 
 .footer h5 {
