@@ -139,6 +139,7 @@ a:after {
 
 .headerHobbies h3 {
   font-size: 20px;
+  text-align: inherit;
   color: black;
   background: rgba(0,0,0,0,);
   /*background: rgba(0,0,0,0.2);*/
